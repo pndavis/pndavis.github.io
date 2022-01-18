@@ -23,8 +23,12 @@ If you go to the movies as frequently as I do, you definitely need to look into 
 
 ---
 
+Here is my process when seeing a movie:
+For most movies I either see it at the AMC 10 because I can walk there, or an AMC the works with my schedule because of A-List. Some movies I don't care enough about to go out of the way to see in a premium format. For those that I do, I first check if they have been shot on an IMAX camera. If so, I'll go the Boeing. If not, I'll either make the drive to a theater with Dolby, or go to the Cinerama.
 
+---
 
+Individual Theaters: 
 
 AMC Seattle 10: This theater used to be a Sundance theater before it was bought out by AMC. It still has kept the focus on indie films. 
 
@@ -57,5 +61,3 @@ Regal Regal Meridian & 4DX 16: This theater is fine. This has nothing to do with
 
 
 
-Here is my process when seeing a movie:
-For most movies I either see it at the AMC 10 because I can walk there, or an AMC the works with my schedule because of A-List. Some movies I don't care enough about to go out of the way to see in a premium format. For those that I do, I first check if they have been shot on an IMAX camera. If so, I'll go the Boeing. If not, I'll either make the drive to a theater with Dolby, or go to the Cinerama.
