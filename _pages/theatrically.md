@@ -4,7 +4,7 @@ title: Theatrically
 permalink: /theatrically/
 ---
 
-A web app to find movies playing in your area. Live at https://theatrically.herokuapp.com/. Source code at https://github.com/pndavis/theatrically. 
+A web app to find movies playing in your area. Live at [https://theatrically.herokuapp.com/](https://theatrically.herokuapp.com/). Source code at [https://github.com/pndavis/theatrically](https://github.com/pndavis/theatrically). 
 
 This is my current project, and has been inspired by my frustration at how hard it can be to find movie showings for movies that aren't blockbusters.
 
